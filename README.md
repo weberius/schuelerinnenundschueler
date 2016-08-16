@@ -4,7 +4,20 @@ Dieser Service liest von [Offene Daten Köln](http://www.offenedaten-koeln.de/) 
 
 ## Services
 
+### /schuelerinnenundschueler/service/insgesamt/2012
 
+Schülerinnen und Schüler in K&ouml;ln gesamt in Jahr 2012; 
+Es sind Daten der Jahre 2010, 2011, 2012, 2013, 2013, 2104 und 2015 vorhanden.
+
+### /schuelerinnenundschueler/service/stadtbezirk/2012
+
+Schülerinnen und Schüler in K&ouml;ln je Stadtbezirk;
+Es sind Daten der Jahre 2010, 2011, 2012, 2013, 2013, 2104 und 2015 vorhanden.
+
+### /schuelerinnenundschueler/service/stadtteil/2012
+
+Schülerinnen und Schüler nach Altersgruppen je Stadtteil;
+Es sind Daten der Jahre 2010, 2011, 2012, 2013, 2013, 2104 und 2015 vorhanden.
 
 ## Entwicklungsstand
 
